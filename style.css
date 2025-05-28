@@ -99,7 +99,7 @@ body {
 .logo {
     height: 50px;
     width: 50px;
-    background-image: url(/media/logo.jpeg);
+    background-image: url(./logo.jpeg);
     display: block;
     background-size: contain;
     background-repeat: no-repeat;
@@ -118,7 +118,7 @@ body {
 /* Header */
 
 .img-custom {
-    background-image: url(/media/headerimage.jpg);
+    background-image: url(./headerimage.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
